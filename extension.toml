@@ -1,0 +1,7 @@
+id = "fui-theme"
+name = "FUI Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["kobago <kobago55555@gmail.com>"]
+description = "Futuristic UI (sci-fi HUD) themes: Cyan / Amber / Green, opaque and transparent."
+repository = "https://github.com/kobago/zed-fui-theme"
